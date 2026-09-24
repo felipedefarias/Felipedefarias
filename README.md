@@ -19,9 +19,4 @@ Graduando em **Ciência da Computação** 🎓 focado em construir uma base sól
 
 ---
 
-### 📫 Conecte-se comigo:
-- 💼 **LinkedIn:** [Seu Nome](https://www.linkedin.com/in/seu-perfil)
-- 🌐 **DEV.to:** [@seuusuario](https://dev.to/seuusuario)
-
----
 *“A única maneira de aprender uma nova linguagem de programação é escrevendo programas nela.” — Dennis Ritchie*
